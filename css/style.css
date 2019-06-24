@@ -1,0 +1,201 @@
+/* .navbar {
+    max-height: 110px;
+} */
+
+body .container {
+    background-color: whitesmoke
+}
+
+#logopic {
+    width: 242px;
+    height: 136px;
+}
+
+.nav-link {
+    font-family: 'Encode Sans Expanded';
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #a78f1b
+}
+
+.btn-outline-success {
+    color: #a78f1b;
+    border-color: #a78f1b;
+}
+
+.btn-outline-success:hover {
+    color: white;
+    border-color: #a78f1b;
+    background-color: #a78f1b;
+}
+
+#okbtn {
+    color: white;
+    border-color: #a78f1b;
+    background-color: #a78f1b;
+}
+
+#exampleModalLabel {
+    font-family: 'Encode Sans Expanded';
+    color: #a78f1b
+}
+
+.carousel-caption h5 {
+    font-family: 'Encode Sans Expanded';
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.carousel-caption p {
+    font-family: 'Encode Sans Expanded';
+    font-size: 16px;
+}
+
+.carousel-item {
+    overflow: hidden;
+}
+
+#carouselpics {
+    height: 100%;
+    margin: auto;
+}
+
+/* .btn:hover{
+    color: #a78f1b;
+} */
+
+.jumbotron {
+    background-color: #a78f1b;
+}
+
+section {
+    background-color: #d8d8d8
+}
+
+section .row {
+    padding: 17px;
+}
+
+article {
+    margin-left: 5px;
+}
+
+article h1 {
+    font-family: 'Encode Sans Expanded'
+}
+
+#jumbotbtn {
+    color: white;
+    border-color: black;
+    background-color: black;
+}
+
+#gridheads {
+    margin-bottom: 15px;
+    color: #a78f1b;
+}
+
+#gridpics {
+    height: 220px;
+    /* width: 349px; */
+}
+
+.panel-heading {
+    background-color: whitesmoke;
+    /* border: 1px solid black; */
+}
+
+.rowimg {
+    text-align: center
+}
+
+.panel-heading {
+    text-align: center;
+}
+
+.panel-title {
+    font-family: 'Encode Sans Expanded'
+}
+
+.panel p {
+    margin-top: 10px;
+}
+
+.panel {
+    margin: -1px;
+}
+
+#btnlink {
+    font-weight: 400;
+    color: whitesmoke
+}
+
+#btnlink:hover {
+    font-weight: 400;
+    color: white
+}
+
+#tabsitem {
+    width: 50%;
+    /* align-items: center; */
+    text-align: center;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show.nav-link {
+    color: white;
+    background-color: #a78f1b;
+    font-size: 18px;
+}
+
+.nav-pills .nav-link {
+    color: black;
+    font-size: 18px;
+    background-color: #d8d8dd
+}
+
+.mb-3, .my-3 {
+    margin-bottom: 1rem!important;
+    margin-top: 4rem;
+}
+
+footer {
+    background-color: #d8d8d8
+}
+
+footer .row {
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+footer a {
+    color: rgb(173, 127, 63);
+}
+
+footer a:hover {
+    color: #a78f1b
+}
+
+footer h3 {
+    font-family: 'Encode Sans Expanded'
+}
+
+footer p {
+    font-family: 'Encode Sans Expanded'
+}
+
+#footertitle {
+    color: #a78f1b
+}
+
+@media only screen and (min-width: 1200px) {
+    .carousel-caption h5 {
+        font-family: 'Encode Sans Expanded';
+        font-size: 32px;
+        background-color: transparent;
+    }
+    .carousel-caption p {
+        font-family: 'Encode Sans Expanded';
+        font-size: 26px;
+    }
+}
